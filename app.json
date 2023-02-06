@@ -33,7 +33,7 @@
    "env": {
 
  },
-    "BOT_TOKEN": {
+    "TG_TOKEN": {
       "description": "Get it from @BotFather"
     },
     "TEAMDRIVE_FOLDER_ID": {

@@ -36,10 +36,10 @@
     "BOT_TOKEN": {
       "description": "Get it from @BotFather"
     },
-    "APP_ID": {
+    "TEAMDRIVE_FOLDER_ID": {
       "description": "Your API_ID, Get it from https://my.telegram.org/apps"
     },
-    "API_HASH": {
+    "TEAMDRIVE_ID": {
       "description": "Your API_HASH, Get it from https://my.telegram.org/apps"
     },
 

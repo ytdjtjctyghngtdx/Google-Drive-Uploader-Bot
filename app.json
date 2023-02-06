@@ -33,6 +33,15 @@
    "env": {
 
  },
+    "BOT_TOKEN": {
+      "description": "Get it from @BotFather"
+    },
+    "APP_ID": {
+      "description": "Your API_ID, Get it from https://my.telegram.org/apps"
+    },
+    "API_HASH": {
+      "description": "Your API_HASH, Get it from https://my.telegram.org/apps"
+    },
 
  "addons": [{
 
